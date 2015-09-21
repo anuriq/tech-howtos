@@ -1,2 +1,0 @@
-https://www.mindmeister.com/389671722/runc-open-container-ecosystem-formerly-docker-ecosystem
--- Mind map for Open Container ecosystem.

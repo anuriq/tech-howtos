@@ -1,5 +1,0 @@
-http://doics.co/2015/08/13/using-terraform-with-microsoft-azure/
--- Author tells about reusing Terraform configurations from AWS to Azure
-
-https://www.datadoghq.com/blog/how-to-monitor-microsoft-azure-vms/
--- About monitoring of Azure instances
